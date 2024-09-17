@@ -8,7 +8,7 @@ server.app.use(bodyParser.urlencoded({extended: true}));
 server.app.use(bodyParser.json())
 //configuracion de cors
 server.app.use(cors({
-    origin:"https://cliente-final-indol.vercel.app/",
+    origin:"cliente-final-git-main-kevinanthonybarrios-projects.vercel.app",
     credentials:true,
 })
 );
