@@ -1,186 +1,77 @@
 [
   {
-    "id": "2",
-    "nombre": "Maria Lopez",
-    "mensaje": ", hola, adios, gg, ff, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "3",
-    "nombre": "Carlos García",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "4",
-    "nombre": "Ana Torres",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "5",
-    "nombre": "Luis Fernandez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "6",
-    "nombre": "Sofia Rodriguez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, BUENAS NOCHES, EE, LUIS"
-  },
-  {
-    "id": "7",
-    "nombre": "Miguel Castillo",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "8",
-    "nombre": "Laura Ramos",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "9",
-    "nombre": "David Ortiz",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "10",
-    "nombre": "Valentina Suarez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "11",
-    "nombre": "Andres Gomez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "12",
-    "nombre": "Paula Vega",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "13",
-    "nombre": "Ricardo Diaz",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "14",
-    "nombre": "Lucia Navarro",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "15",
-    "nombre": "Fernando Arenga",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "16",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "17",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "18",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "19",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "20",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "21",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "22",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "23",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "24",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "25",
-    "nombre": "Efrain Gonzalez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "26",
-    "nombre": "Efrain Gonzalez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "27",
-    "nombre": "Efrain Gonzalez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "28",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "29",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
-  },
-  {
-    "id": "30",
+    "id": 1,
     "nombre": "Juan Perez",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "mensaje": "Hola, este es mi primer mensaje."
   },
   {
-    "id": "31",
-    "nombre": "Juan silva",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 2,
+    "nombre": "Maria Lopez",
+    "mensaje": "Estoy aprendiendo sobre APIs REST."
   },
   {
-    "id": "32",
-    "nombre": "marta silva",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 3,
+    "nombre": "Carlos García",
+    "mensaje": "¿Alguien tiene experiencia con TypeScript?"
   },
   {
-    "id": "33",
-    "nombre": "marta silva",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 4,
+    "nombre": "Ana Torres",
+    "mensaje": "Me gusta mucho trabajar con Node.js."
   },
   {
-    "id": "34",
-    "nombre": "german silva",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 5,
+    "nombre": "Luis Fernandez",
+    "mensaje": "Estoy buscando mejorar mis habilidades en backend."
   },
   {
-    "id": "35",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 6,
+    "nombre": "Sofia Rodriguez",
+    "mensaje": "¿Qué librerías recomiendan para validaciones?"
   },
   {
-    "id": "36",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 7,
+    "nombre": "Miguel Castillo",
+    "mensaje": "Estoy trabajando en un proyecto de API REST."
   },
   {
-    "id": "37",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 8,
+    "nombre": "Laura Ramos",
+    "mensaje": "¿Cuál es la mejor manera de manejar errores en APIs?"
   },
   {
-    "id": "38",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 9,
+    "nombre": "David Ortiz",
+    "mensaje": "Estoy muy interesado en aprender autenticación."
   },
   {
-    "id": "39",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 10,
+    "nombre": "Valentina Suarez",
+    "mensaje": "He estado usando Postman para probar mis APIs."
   },
   {
-    "id": "40",
-    "nombre": "kevin",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 11,
+    "nombre": "Andres Gomez",
+    "mensaje": "¿Alguien sabe cómo documentar APIs con Swagger?"
   },
   {
-    "id": "41",
-    "nombre": "kevin",
-    "mensaje": ", hola, adios, 12, BUENOS DUIAS, LUIS"
+    "id": 12,
+    "nombre": "Paula Vega",
+    "mensaje": "La integración con bases de datos es clave para mí."
+  },
+  {
+    "id": 13,
+    "nombre": "Ricardo Diaz",
+    "mensaje": "Estoy experimentando con middleware personalizado."
+  },
+  {
+    "id": 14,
+    "nombre": "Lucia Navarro",
+    "mensaje": "Las rutas dinámicas son algo que me interesa mucho."
+  },
+  {
+    "id": 15,
+    "nombre": "Fernando Arenga",
+    "mensaje": "Estoy buscando consejos sobre seguridad en APIs."
   }
 ]
