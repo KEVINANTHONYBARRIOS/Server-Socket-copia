@@ -8,7 +8,7 @@ server.app.use(bodyParser.urlencoded({extended: true}));
 server.app.use(bodyParser.json())
 //configuracion de cors
 server.app.use(cors({
-    origin:"http://localhost:4500",
+    origin:"https://cliente-socket1.vercel.app",
     credentials:true,
 })
 );
