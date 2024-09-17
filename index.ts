@@ -8,7 +8,7 @@ server.app.use(bodyParser.urlencoded({extended: true}));
 server.app.use(bodyParser.json())
 //configuracion de cors
 server.app.use(cors({
-    origin:"https://cliente-socket-eight.vercel.app",
+    origin:"https://luis-cliente.vercel.app",
     credentials:true,
 })
 );

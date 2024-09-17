@@ -13,7 +13,7 @@ server.app.use(body_parser_1.default.urlencoded({ extended: true }));
 server.app.use(body_parser_1.default.json());
 //configuracion de cors
 server.app.use((0, cors_1.default)({
-    origin: "https://cliente-socket-eight.vercel.app",
+    origin: "https://luis-cliente.vercel.app",
     credentials: true,
 }));
 server.app.use("/", router_1.router);
