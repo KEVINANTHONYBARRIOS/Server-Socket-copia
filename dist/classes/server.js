@@ -79,7 +79,7 @@ class Server {
         // this.io = new SocketOIServer(this.httpServer);
         this.io = new socket_io_1.Server(this.httpServer, {
             cors: {
-                origin: "http://localhost:4200",
+                origin: "https://cliente-socket1-4yoc.vercel.app",
                 methods: ["GET", "POST"],
             },
         });
