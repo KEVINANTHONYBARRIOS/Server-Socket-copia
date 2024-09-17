@@ -19,7 +19,7 @@ export default class Server {
     // this.io = new SocketOIServer(this.httpServer);
     this.io = new SocketOIServer(this.httpServer, {
       cors: {
-        origin: "https://cliente-socket1-s45y.vercel.app",
+        origin: "https://cliente-socket1-s45y.vercel.app/",
         methods: ["GET", "POST"],
       },
     });
