@@ -14,11 +14,13 @@ const leerDatos = (): any[] => {
   }
 };
 
+// Ruta para la raíz
+router.get("/", (req: Request, res: Response) => {
+  res.send("Servidor funcionando correctamente");
+});
+
+// Ruta para obtener mensajes
 router.get("/mensajes", (req: Request, res: Response) => {
-  //   res.json({
-  //     ok: true,
-  //     mensaje: "todo bien !",
-  //   });
   const datos = leerDatos();
   res.json(datos);
 });
