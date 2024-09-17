@@ -2,6 +2,7 @@ import { Router, Request, Response } from "express";
 export const router = Router();
 import fs from "fs";
 import path from "path";
+
 const dataFilePath = path.join(__dirname, "../UserMens.json");
 
 const leerDatos = (): any[] => {
@@ -14,12 +15,11 @@ const leerDatos = (): any[] => {
   }
 };
 
-// Ruta para la raíz
+// Ruta para manejar la raíz del servidor
 router.get("/", (req: Request, res: Response) => {
-  res.send("Servidor funcionando correctamente");
+  res.send("Bienvenido al servidor de mensajes");
 });
 
-// Ruta para obtener mensajes
 router.get("/mensajes", (req: Request, res: Response) => {
   const datos = leerDatos();
   res.json(datos);
