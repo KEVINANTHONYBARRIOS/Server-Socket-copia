@@ -41,7 +41,7 @@ class Server {
         // this.io = new SocketOIServer(this.httpServer);
         this.io = new socket_io_1.Server(this.httpServer, {
             cors: {
-                origin: "https://cliente-final-indol.vercel.app",
+                origin: "https://cliente-socket-eight.vercel.app",
                 methods: ["GET", "POST"],
             },
         });
