@@ -20,7 +20,7 @@ export default class Server {
     // this.io = new SocketOIServer(this.httpServer);
     this.io = new SocketOIServer(this.httpServer, {
       cors: {
-        origin: "http://localhost:4200",
+        origin: 'http://localhost:4200',
         methods: ["GET", "POST"],
       },
     });
